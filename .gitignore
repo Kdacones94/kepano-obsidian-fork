@@ -6,4 +6,9 @@
 .obsidian/core-plugins-migration.json
 
 # Exclude macOS Finder (System Explorer) View States
+
+.git
+.config
+.env
+.ssh
 .DS_Store
